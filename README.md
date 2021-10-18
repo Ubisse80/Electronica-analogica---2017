@@ -1,5 +1,6 @@
 **Links para a submissao dos relatorios**
 
+Arrastem os documentos para a pasta correspondente e não façam mais nada.
 ----------------------------------------------------------------------------------------------------------
 
 **Meteorologia**
