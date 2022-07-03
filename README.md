@@ -1,12 +1,8 @@
-**Links para a submissao dos relatorios**
 
-Arrastem os documentos para a pasta correspondente e não façam mais nada.
-----------------------------------------------------------------------------------------------------------
+**Aula online | Data: 03/07/22 | Hora: 08:45 – 09:45**
 
-**Meteorologia**
 
-https://drive.google.com/drive/folders/1OhrKJxcmXAgn7MSuUylF8mUdUfPS54z5?usp=sharing
+regressao nao linear em python
 
-**Fisica**
 
-https://drive.google.com/drive/folders/1XnFXs4fZkAAGxURssdZL-MrtrwVm-aQ4?usp=sharing
+> Link: https://meet.google.com/iyd-kpfg-bvf
